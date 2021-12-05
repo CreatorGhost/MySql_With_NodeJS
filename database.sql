@@ -6,3 +6,5 @@ CREATE TABLE Persons (
 );
 Insert into Persons values (1, 'John', 25);
 Insert into Persons values (2, 'Mary', 30);
+
+
